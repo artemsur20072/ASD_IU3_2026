@@ -6,7 +6,7 @@ import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 import ru.bmstu.lab1.common.ArrayOperations;
 
-/** решение задачи 45 */
+/** разбиение массива на три группы относительно опорного значения на месте */
 public final class Main {
     private Main() {
     }

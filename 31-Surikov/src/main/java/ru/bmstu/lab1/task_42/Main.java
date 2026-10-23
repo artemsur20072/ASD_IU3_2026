@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 
-/** решение задачи 42 */
+/** вставка в отсортированный массив с бинарным поиском позиции */
 public final class Main {
     private Main() {
     }

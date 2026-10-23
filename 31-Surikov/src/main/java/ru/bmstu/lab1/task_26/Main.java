@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 
-/** решение задачи 26 */
+/** произведение элементов по модулю с поддержкой отрицательных чисел */
 public final class Main {
     private Main() {
     }

@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 
-/** решение задачи 34 */
+/** максимальная сумма непустого подмассива по алгоритму Кадане */
 public final class Main {
     private Main() {
     }

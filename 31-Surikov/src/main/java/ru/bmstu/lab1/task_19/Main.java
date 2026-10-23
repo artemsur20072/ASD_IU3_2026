@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 
-/** решение задачи 19 */
+/** слияние двух отсортированных массивов двумя указателями */
 public final class Main {
     private Main() {
     }

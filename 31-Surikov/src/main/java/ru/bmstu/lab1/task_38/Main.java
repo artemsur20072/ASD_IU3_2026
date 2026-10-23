@@ -6,7 +6,7 @@ import java.util.Scanner;
 import ru.bmstu.lab1.common.ArrayIo;
 import ru.bmstu.lab1.common.ArrayOperations;
 
-/** решение задачи 38 */
+/** циклический сдвиг влево тройным разворотом на месте */
 public final class Main {
     private Main() {
     }
